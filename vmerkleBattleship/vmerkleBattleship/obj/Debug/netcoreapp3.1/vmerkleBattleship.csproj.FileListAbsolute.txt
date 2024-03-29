@@ -1,0 +1,14 @@
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\bin\Debug\netcoreapp3.1\vmerkleBattleship.exe
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\bin\Debug\netcoreapp3.1\vmerkleBattleship.deps.json
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\bin\Debug\netcoreapp3.1\vmerkleBattleship.runtimeconfig.json
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\bin\Debug\netcoreapp3.1\vmerkleBattleship.runtimeconfig.dev.json
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\bin\Debug\netcoreapp3.1\vmerkleBattleship.dll
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\bin\Debug\netcoreapp3.1\vmerkleBattleship.pdb
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\obj\Debug\netcoreapp3.1\vmerkleBattleship.csproj.AssemblyReference.cache
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\obj\Debug\netcoreapp3.1\vmerkleBattleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\obj\Debug\netcoreapp3.1\vmerkleBattleship.AssemblyInfoInputs.cache
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\obj\Debug\netcoreapp3.1\vmerkleBattleship.AssemblyInfo.cs
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\obj\Debug\netcoreapp3.1\vmerkleBattleship.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\obj\Debug\netcoreapp3.1\vmerkleBattleship.dll
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\obj\Debug\netcoreapp3.1\vmerkleBattleship.pdb
+C:\Users\vickm\source\repos\vmerkleBattleship\vmerkleBattleship\obj\Debug\netcoreapp3.1\vmerkleBattleship.genruntimeconfig.cache
